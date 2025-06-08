@@ -1,6 +1,7 @@
 ORGANISM: Nostoc sp. - cryptophycin 
 n
 n
+TYPE: ['T1PKS', 'NRPS-like', 'NRPS'] 
 n
 n
 n

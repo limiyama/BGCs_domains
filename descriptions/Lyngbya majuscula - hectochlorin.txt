@@ -3,6 +3,7 @@ n
 n
 n
 n
+TYPE: ['NRPS', 'T1PKS'] 
 n
 n
 n

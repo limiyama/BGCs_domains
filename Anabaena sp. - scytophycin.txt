@@ -1,5 +1,6 @@
 ORGANISM: Anabaena sp. - scytophycin 
 n
+TYPE: ['transAT-PKS-like', 'NRPS-like', 'T1PKS'] 
 n
 n
 n

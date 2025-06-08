@@ -16,10 +16,12 @@ def extract_bgcs_from_antismash(gbk_dir):
                     f.write(f"ORGANISM: {organism} \n")
                     
                     for feature in features:
-                        # descriptions - nomes dos domínios e tailoring enzymes
+                        if feature.type == "region" and "product" in feature.qualifiers: 
+                            products = feature.qualifiers["product"]
+                            f.write(f"TYPE: {products} \n")
+
                         desc = feature.qualifiers.get("description", "N/A")[0].lower()
                         f.write(desc + "\n")
-                
 
 #gbk_file = 'mibig_gbk_4.0/BGC0001000.gbk'  # Replace with your .gbk file
 #df = parse_gbk_file(gbk_file)
