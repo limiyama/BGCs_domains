@@ -1,0 +1,469 @@
+ORGANISM: Anabaena sp. - scytophycin 
+n
+n
+n
+n
+n
+n
+phytanoyl-coa dioxygenase (phyh)
+n
+phytanoyl-coa dioxygenase (phyh)
+n
+cytochrome p450
+n
+thioesterase domain
+n
+n
+n
+phosphopantetheine attachment site
+n
+n
+ketoacyl-synthetase c-terminal extension
+n
+beta-ketoacyl synthase, c-terminal domain
+n
+n
+beta-ketoacyl synthase, n-terminal domain
+n
+n
+n
+phosphopantetheine attachment site
+n
+n
+kr domain
+n
+n
+polyketide synthase dehydratase
+n
+n
+n
+ketoacyl-synthetase c-terminal extension
+n
+beta-ketoacyl synthase, c-terminal domain
+n
+n
+beta-ketoacyl synthase, n-terminal domain
+n
+n
+n
+n
+phosphopantetheine attachment site
+n
+methyltransferase domain
+n
+kr domain
+n
+n
+polyketide synthase dehydratase
+n
+n
+n
+ketoacyl-synthetase c-terminal extension
+n
+beta-ketoacyl synthase, c-terminal domain
+n
+n
+beta-ketoacyl synthase, n-terminal domain
+n
+n
+n
+n
+phosphopantetheine attachment site
+n
+kr domain
+n
+n
+n
+ketoacyl-synthetase c-terminal extension
+n
+beta-ketoacyl synthase, c-terminal domain
+n
+n
+beta-ketoacyl synthase, n-terminal domain
+n
+n
+n
+phosphopantetheine attachment site
+n
+kr domain
+n
+n
+n
+polyketide synthase dehydratase
+n
+polyketide synthase dehydratase
+n
+n
+n
+ketoacyl-synthetase c-terminal extension
+n
+beta-ketoacyl synthase, c-terminal domain
+n
+n
+beta-ketoacyl synthase, n-terminal domain
+n
+n
+n
+phosphopantetheine attachment site
+n
+polyketide synthase dehydratase
+n
+n
+n
+n
+beta-ketoacyl synthase, c-terminal domain
+n
+n
+beta-ketoacyl synthase, n-terminal domain
+n
+n
+n
+phosphopantetheine attachment site
+n
+kr domain
+n
+n
+n
+n
+ketoacyl-synthetase c-terminal extension
+n
+beta-ketoacyl synthase, c-terminal domain
+n
+n
+beta-ketoacyl synthase, n-terminal domain
+n
+n
+n
+n
+phosphopantetheine attachment site
+n
+kr domain
+n
+n
+n
+ketoacyl-synthetase c-terminal extension
+n
+beta-ketoacyl synthase, c-terminal domain
+n
+n
+beta-ketoacyl synthase, n-terminal domain
+n
+n
+n
+phosphopantetheine attachment site
+n
+n
+mycolic acid cyclopropane synthetase
+n
+ketoacyl-synthetase c-terminal extension
+n
+beta-ketoacyl synthase, c-terminal domain
+n
+n
+beta-ketoacyl synthase, n-terminal domain
+n
+n
+n
+phosphopantetheine attachment site
+n
+n
+kr domain
+n
+n
+n
+ketoacyl-synthetase c-terminal extension
+n
+beta-ketoacyl synthase, c-terminal domain
+n
+n
+beta-ketoacyl synthase, n-terminal domain
+n
+n
+n
+phosphopantetheine attachment site
+n
+phosphopantetheine attachment site
+n
+n
+methyltransferase domain
+n
+kr domain
+n
+n
+n
+ketoacyl-synthetase c-terminal extension
+n
+beta-ketoacyl synthase, c-terminal domain
+n
+n
+beta-ketoacyl synthase, n-terminal domain
+n
+n
+n
+phosphopantetheine attachment site
+n
+n
+kr domain
+n
+n
+n
+ketoacyl-synthetase c-terminal extension
+n
+beta-ketoacyl synthase, c-terminal domain
+n
+n
+beta-ketoacyl synthase, n-terminal domain
+n
+n
+n
+phosphopantetheine attachment site
+n
+n
+methyltransferase domain
+n
+kr domain
+n
+n
+n
+n
+n
+n
+ketoacyl-synthetase c-terminal extension
+n
+beta-ketoacyl synthase, c-terminal domain
+n
+n
+beta-ketoacyl synthase, n-terminal domain
+n
+n
+n
+phosphopantetheine attachment site
+n
+n
+methyltransferase domain
+n
+n
+kr domain
+n
+n
+polyketide synthase dehydratase
+n
+n
+n
+ketoacyl-synthetase c-terminal extension
+n
+beta-ketoacyl synthase, c-terminal domain
+n
+n
+beta-ketoacyl synthase, n-terminal domain
+n
+n
+n
+zinc-binding dehydrogenase
+n
+n
+n
+n
+alcohol dehydrogenase groes-like domain
+phosphopantetheine attachment site
+n
+n
+n
+methyltransferase domain
+n
+kr domain
+n
+n
+polyketide synthase dehydratase
+n
+n
+n
+ketoacyl-synthetase c-terminal extension
+n
+beta-ketoacyl synthase, c-terminal domain
+n
+n
+beta-ketoacyl synthase, n-terminal domain
+n
+n
+n
+n
+phosphopantetheine attachment site
+n
+n
+ketoacyl-synthetase c-terminal extension
+n
+beta-ketoacyl synthase, c-terminal domain
+n
+n
+beta-ketoacyl synthase, n-terminal domain
+n
+n
+n
+n
+n
+phosphopantetheine attachment site
+n
+o-methyltransferase domain
+n
+n
+n
+beta-ketoacyl synthase, c-terminal domain
+n
+beta-ketoacyl synthase, n-terminal domain
+n
+n
+n
+n
+n
+n
+n
+phosphopantetheine attachment site
+n
+methyltransferase domain
+n
+kr domain
+n
+n
+n
+ketoacyl-synthetase c-terminal extension
+n
+beta-ketoacyl synthase, c-terminal domain
+n
+n
+beta-ketoacyl synthase, n-terminal domain
+n
+n
+n
+phosphopantetheine attachment site
+n
+n
+phosphopantetheine attachment site
+polyketide synthase dehydratase
+n
+n
+n
+ketoacyl-synthetase c-terminal extension
+n
+beta-ketoacyl synthase, c-terminal domain
+n
+n
+beta-ketoacyl synthase, n-terminal domain
+n
+n
+n
+phosphopantetheine attachment site
+n
+amp-binding enzyme c-terminal domain
+aa-adenyl-dom: amino acid adenylation domain
+n
+n
+amp-binding enzyme
+n
+n
+n
+n
+methyltransferase domain
+formyl transferase, c-terminal domain
+formyl transferase
+n
+concanavalin a-like lectin/glucanases superfamily
+concanavalin a-like lectin/glucanases superfamily
+concanavalin a-like lectin/glucanases superfamily
+family of unknown function (duf6200)
+n
+beta-ketoacyl synthase, n-terminal domain
+n
+n
+n
+n
+n
+beta-ketoacyl synthase, c-terminal domain
+n
+n
+ketoacyl-synthetase c-terminal extension
+n
+acyl transferase domain
+n
+n
+n
+n
+n
+phosphopantetheine attachment site
+n
+beta-ketoacyl synthase, n-terminal domain
+n
+n
+n
+n
+beta-ketoacyl synthase, c-terminal domain
+n
+n
+ketoacyl-synthetase c-terminal extension
+acyl transferase domain
+n
+n
+n
+n
+n
+n
+n
+mycolic acid cyclopropane synthetase
+n
+kr domain
+n
+n
+n
+phosphopantetheine attachment site
+n
+n
+beta-ketoacyl synthase, n-terminal domain
+n
+n
+n
+beta-ketoacyl synthase, c-terminal domain
+n
+n
+ketoacyl-synthetase c-terminal extension
+acyl transferase domain
+n
+n
+n
+n
+n
+n
+n
+kr domain
+n
+n
+n
+phosphopantetheine attachment site
+n
+sulfotransferase family
+alpha/beta hydrolase fold
+n
+n
+n
+n
+family of unknown function (duf6208)
+n
+abc1 atypical kinase-like domain
+n
+n
+fabd: malonyl coa-acyl carrier protein transacylase
+acyl transferase domain
+n
+n
+n
+n
+methyltransferase domain
+n
+glycosyl transferases group 1
+n
+family of unknown function (duf6200)
+n
+family of unknown function (duf6312)
+n
+menb: naphthoate synthase
+enoyl-coa hydratase/isomerase
+n
