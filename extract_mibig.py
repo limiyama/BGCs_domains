@@ -1,7 +1,7 @@
 import tarfile, os
 
 # function to extract only cyanobacterial bgcs from the mibig database (.tar.gz)
-def extract_cyano_files(tar_path, output_dir, keyword):
+def extract_cyano_files(tar_path, output_dir, keyword, type):
     # make sure the output directory exists
     if not os.path.exists(output_dir):
         os.makedirs(output_dir)
@@ -15,12 +15,13 @@ def extract_cyano_files(tar_path, output_dir, keyword):
                 file_content = tar.extractfile(member).read().decode('utf-8')
                 
                 # and if its a cyano .gbk file
-                if keyword in file_content:
+                if keyword and type in file_content:
                     # extract it!
                     tar.extract(member, path=output_dir)
 
 tar_path = 'mibig_gbk_4.0.tar.gz' 
-output_dir = 'C:/Users/Lígia/Desktop/FindBGC' 
+output_dir = 'C:/Users/Lígia/Desktop/FindBGC/terpenes' 
 keyword = 'Cyanobacteriota'
+type = 'terpene'
 
-extract_cyano_files(tar_path, output_dir, keyword)
+extract_cyano_files(tar_path, output_dir, keyword, type)
