@@ -20,7 +20,7 @@ def extract_bgcs_from_antismash(gbk_dir):
                             products = feature.qualifiers["product"]
                             f.write(f"TYPE: {products} \n")
 
-                        desc = feature.qualifiers.get("description", "N/A")[0].lower()
+                        desc = feature.qualifiers.get("description", "N/A")[0]
                         f.write(desc + "\n")
 
 #gbk_file = 'mibig_gbk_4.0/BGC0001000.gbk'  # Replace with your .gbk file
