@@ -1,0 +1,168 @@
+ORGANISM: Lyngbya majuscula - hectochlorin 
+N
+N
+N
+N
+TYPE: ['NRPS', 'T1PKS'] 
+N
+N
+N
+Reverse transcriptase (RNA-dependent DNA polymerase)
+Group II intron, maturase-specific domain
+N
+HNH endonuclease
+N
+N
+AMP-binding enzyme
+N
+N
+N
+N
+N
+N
+Phytanoyl-CoA dioxygenase (PhyH)
+Acyl CoA binding protein
+N
+Phosphopantetheine attachment site
+N
+Helix-turn-helix domain
+N
+Probable transposase
+Putative transposase DNA-binding domain
+N
+N
+Beta-ketoacyl synthase, N-terminal domain
+N
+N
+N
+N
+N
+Beta-ketoacyl synthase, C-terminal domain
+N
+N
+Ketoacyl-synthetase C-terminal extension
+Acyl transferase domain
+N
+N
+N
+N
+N
+N
+N
+N
+Methyltransferase domain
+N
+KR domain
+N
+N
+N
+Phosphopantetheine attachment site
+N
+TubC N-terminal docking domain
+Condensation domain
+N
+N
+N
+N
+N
+N
+N
+N
+AMP-binding enzyme C-terminal domain
+AMP-binding enzyme
+N
+N
+N
+N
+N
+N
+KR domain
+N
+N
+N
+Phosphopantetheine attachment site
+N
+N
+Condensation domain
+N
+N
+N
+N
+N
+N
+N
+N
+AMP-binding enzyme
+AA-adenyl-dom: amino acid adenylation domain
+N
+N
+N
+N
+Nitroreductase family
+antibiot_sagB: SagB-type dehydrogenase domain
+N
+Phosphopantetheine attachment site
+N
+TubC N-terminal docking domain
+N
+Condensation domain
+N
+N
+N
+N
+N
+N
+N
+N
+AMP-binding enzyme
+N
+N
+N
+AMP-binding enzyme
+N
+N
+N
+N
+N
+N
+KR domain
+N
+N
+N
+Phosphopantetheine attachment site
+N
+N
+Condensation domain
+N
+N
+N
+N
+N
+N
+N
+N
+AMP-binding enzyme
+N
+AA-adenyl-dom: amino acid adenylation domain
+N
+N
+N
+N
+Nitroreductase family
+antibiot_sagB: SagB-type dehydrogenase domain
+N
+Phosphopantetheine attachment site
+N
+Thioesterase domain
+N
+N
+N
+Cytochrome P450
+N
+AMP-binding enzyme
+N
+N
+Cytochrome P450
+N
+N
+N

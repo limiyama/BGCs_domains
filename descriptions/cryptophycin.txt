@@ -1,0 +1,216 @@
+ORGANISM: Nostoc sp. - cryptophycin 
+N
+N
+TYPE: ['T1PKS', 'NRPS-like', 'NRPS'] 
+N
+N
+N
+N
+N
+N
+N
+N
+AAA ATPase domain
+N
+UDP-glucoronosyl and UDP-glucosyl transferase
+Glycosyltransferase family 28 N-terminal domain
+N
+short chain dehydrogenase
+N
+N
+N
+Transcriptional regulatory protein, C terminal
+Response regulator receiver domain
+N
+N
+N
+N
+N
+N
+AMP-binding enzyme
+N
+N
+N
+N
+N
+Phosphopantetheine attachment site
+Beta-ketoacyl synthase, N-terminal domain
+N
+N
+N
+Beta-ketoacyl synthase, C-terminal domain
+N
+Ketoacyl-synthetase C-terminal extension
+Acyl transferase domain
+N
+N
+N
+N
+N
+N
+Polyketide synthase dehydratase
+N
+N
+Methyltransferase domain
+N
+KR domain
+N
+N
+N
+Phosphopantetheine attachment site
+N
+Beta-ketoacyl synthase, N-terminal domain
+N
+N
+N
+N
+N
+N
+Beta-ketoacyl synthase, C-terminal domain
+N
+N
+Ketoacyl-synthetase C-terminal extension
+Acyl transferase domain
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+KR domain
+N
+N
+N
+N
+Phosphopantetheine attachment site
+Beta-ketoacyl synthase, N-terminal domain
+N
+N
+N
+N
+N
+Beta-ketoacyl synthase, C-terminal domain
+N
+N
+Ketoacyl-synthetase C-terminal extension
+N
+Acyl transferase domain
+N
+N
+N
+N
+N
+N
+N
+N
+Polyketide synthase dehydratase
+N
+N
+KR domain
+N
+N
+N
+N
+N
+Phosphopantetheine attachment site
+N
+TubC N-terminal docking domain
+Condensation domain
+N
+N
+N
+N
+N
+N
+N
+N
+AMP-binding enzyme
+AA-adenyl-dom: amino acid adenylation domain
+N
+N
+N
+N
+AMP-binding enzyme C-terminal domain
+PRMT5 arginine-N-methyltransferase
+N
+N
+N
+Phosphopantetheine attachment site
+N
+Condensation domain
+N
+N
+N
+N
+N
+NRPS-para261: non-ribosomal peptide synthase domain TIGR01720
+N
+N
+N
+N
+N
+N
+Condensation domain
+N
+N
+N
+N
+N
+N
+N
+N
+AMP-binding enzyme
+N
+N
+N
+N
+AMP-binding enzyme C-terminal domain
+N
+Phosphopantetheine attachment site
+Condensation domain
+N
+N
+N
+N
+N
+N
+N
+AMP-binding enzyme
+N
+N
+N
+N
+N
+N
+KR domain
+N
+N
+N
+Phosphopantetheine attachment site
+N
+Thioesterase domain
+N
+N
+Cytochrome P450
+N
+N
+Taurine catabolism dioxygenase TauD, TfdA family
+N
+Aspartate decarboxylase
+panD: aspartate 1-decarboxylase
+N
+Tryptophan halogenase
+Tryptophan halogenase
+N
+N
+N
+N
+N
+Transposase DDE domain
+N
+N
+N

@@ -1,0 +1,287 @@
+ORGANISM: Lyngbya majuscula - jamaicamide 
+N
+N
+N
+N
+TYPE: ['T1PKS', 'T3PKS', 'PKS-like', 'NRPS'] 
+N
+N
+N
+N
+N
+Sucrose synthase
+sucr_synth: sucrose synthase
+Glycosyl transferases group 1
+N
+N
+N
+Transposase IS200 like
+N
+N
+N
+N
+N
+AMP-binding enzyme
+N
+N
+N
+N
+N
+Fatty acid desaturase
+N
+N
+Phosphopantetheine attachment site
+N
+N
+Beta-ketoacyl synthase, N-terminal domain
+N
+N
+N
+N
+Beta-ketoacyl synthase, C-terminal domain
+N
+Ketoacyl-synthetase C-terminal extension
+Acyl transferase domain
+N
+N
+N
+N
+N
+N
+N
+Phytanoyl-CoA dioxygenase (PhyH)
+N
+N
+Phosphopantetheine attachment site
+N
+N
+N
+Phosphopantetheine attachment site
+N
+Phosphopantetheine attachment site
+N
+N
+Phosphopantetheine attachment site
+N
+Beta-ketoacyl synthase, N-terminal domain
+N
+Beta-ketoacyl synthase, C-terminal domain
+N
+Hydroxymethylglutaryl-coenzyme A synthase N terminal
+Hydroxymethylglutaryl-coenzyme A synthase C terminal
+N
+Enoyl-CoA hydratase/isomerase
+N
+N
+N
+N
+Enoyl-CoA hydratase/isomerase
+N
+N
+N
+N
+N
+N
+Zinc-binding dehydrogenase
+N
+N
+N
+Beta-ketoacyl synthase, N-terminal domain
+N
+N
+N
+Beta-ketoacyl synthase, C-terminal domain
+N
+Ketoacyl-synthetase C-terminal extension
+Acyl transferase domain
+N
+N
+N
+N
+N
+N
+Polyketide synthase dehydratase
+N
+N
+N
+Methyltransferase domain
+N
+N
+N
+N
+N
+N
+Zinc-binding dehydrogenase
+N
+N
+N
+KR domain
+N
+N
+N
+N
+N
+Phosphopantetheine attachment site
+N
+Beta-ketoacyl synthase, N-terminal domain
+N
+N
+N
+N
+Beta-ketoacyl synthase, C-terminal domain
+N
+N
+Ketoacyl-synthetase C-terminal extension
+Acyl transferase domain
+N
+N
+N
+N
+N
+N
+N
+KR domain
+N
+N
+N
+N
+Phosphopantetheine attachment site
+N
+Beta-ketoacyl synthase, N-terminal domain
+N
+N
+N
+N
+Beta-ketoacyl synthase, C-terminal domain
+N
+N
+Ketoacyl-synthetase C-terminal extension
+Acyl transferase domain
+N
+N
+N
+N
+N
+N
+N
+Polyketide synthase dehydratase
+N
+N
+N
+N
+N
+N
+N
+N
+Zinc-binding dehydrogenase
+N
+N
+KR domain
+N
+N
+N
+N
+Phosphopantetheine attachment site
+TubC N-terminal docking domain
+Condensation domain
+N
+N
+N
+N
+N
+N
+N
+N
+AMP-binding enzyme
+N
+N
+Pyridoxal-dependent decarboxylase conserved domain
+AMP-binding enzyme
+N
+N
+AMP-binding enzyme C-terminal domain
+N
+Phosphopantetheine attachment site
+N
+Beta-ketoacyl synthase, N-terminal domain
+N
+N
+N
+N
+Beta-ketoacyl synthase, C-terminal domain
+N
+N
+Ketoacyl-synthetase C-terminal extension
+N
+Acyl transferase domain
+N
+N
+N
+N
+N
+N
+N
+N
+N
+Methyltransferase domain
+N
+Phosphopantetheine attachment site
+N
+TubC N-terminal docking domain
+N
+N
+Condensation domain
+N
+N
+N
+N
+N
+N
+AMP-binding enzyme
+AA-adenyl-dom: amino acid adenylation domain
+N
+N
+N
+N
+AMP-binding enzyme C-terminal domain
+N
+Phosphopantetheine attachment site
+N
+Beta-ketoacyl synthase, N-terminal domain
+N
+N
+N
+Beta-ketoacyl synthase, C-terminal domain
+N
+N
+Ketoacyl-synthetase C-terminal extension
+Acyl transferase domain
+N
+N
+N
+N
+N
+N
+N
+N
+KR domain
+N
+N
+N
+Phosphopantetheine attachment site
+N
+Thioesterase domain
+N
+N
+Condensation domain
+N
+N
+Transposase DDE domain
+Putative transposase of IS4/5 family (DUF4096)
+N
+Probable transposase
+N
+N
+Linear amide C-N hydrolases, choloylglycine hydrolase family
+N
+N

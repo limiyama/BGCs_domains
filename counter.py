@@ -1,7 +1,14 @@
 from collections import Counter
 
-with open("Anabaena sp. - scytophycin.txt") as input_file:
-    #build a counter from each word in the file
-    count = Counter(line for line in input_file)
+def teste(file_path):
+    for file in file_path:
+        with open(file, 'r') as f:
+            count = Counter(line for line in f)
+            lista = count.most_common(20)
+            print(f"descriptions: {lista} \n")
 
-print(count.most_common(10))
+if __name__ == "__main__":
+    files = ['descriptions/cryptomaldamide.txt', 'descriptions/cryptophycin.txt', 'descriptions/hectochlorin.txt', 'descriptions/jamaicamide.txt', 'descriptions/scytophycin.txt']
+
+    teste(files)
+    

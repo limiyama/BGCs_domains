@@ -1,0 +1,224 @@
+ORGANISM: Moorena producens JHB 
+N
+N
+N
+N
+N
+TYPE: ['NRPS', 'T1PKS'] 
+N
+N
+N
+N
+Caspase domain
+N
+N
+N
+N
+rpmF_bact: ribosomal protein bL32
+Ribosomal L32p protein family
+Universal stress protein family
+N
+N
+Universal stress protein family
+N
+N
+N
+N
+PS_II_psbM: photosystem II reaction center protein PsbM
+Photosystem II reaction centre M protein (PsbM)
+N
+N
+N
+N
+N
+2Fe-2S iron-sulfur cluster binding domain
+N
+N
+N
+Outer membrane efflux protein
+Outer membrane efflux protein
+N
+N
+N
+N
+N
+N
+N
+N
+N
+Winged helix-turn helix
+N
+N
+N
+N
+matE: MATE efflux family protein
+MatE
+MatE
+N
+N
+Putative transposase DNA-binding domain
+N
+N
+N
+Probable transposase
+Helix-turn-helix domain
+N
+N
+Resolvase, N terminal domain
+MerR family regulatory protein
+N
+N
+N
+N
+Thioesterase domain
+N
+N
+N
+Phosphopantetheine attachment site
+Polyketide synthase dehydratase
+N
+N
+KR domain
+N
+N
+N
+Methyltransferase domain
+KR domain
+N
+Acyl transferase domain
+N
+N
+N
+N
+N
+Ketoacyl-synthetase C-terminal extension
+N
+Beta-ketoacyl synthase, C-terminal domain
+N
+Beta-ketoacyl synthase, N-terminal domain
+N
+N
+N
+Phosphopantetheine attachment site
+N
+Methyltransferase domain
+AA-adenyl-dom: amino acid adenylation domain
+N
+N
+AMP-binding enzyme
+N
+N
+N
+N
+Condensation domain
+N
+N
+N
+N
+N
+N
+N
+Phosphopantetheine attachment site
+AA-adenyl-dom: amino acid adenylation domain
+N
+N
+AMP-binding enzyme
+N
+N
+N
+N
+Condensation domain
+N
+N
+N
+N
+N
+N
+N
+N
+Phosphopantetheine attachment site
+AMP-binding enzyme C-terminal domain
+AA-adenyl-dom: amino acid adenylation domain
+N
+N
+AMP-binding enzyme
+N
+N
+N
+N
+Condensation domain
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+N
+Putative transposase of IS4/5 family (DUF4096)
+N
+N
+N
+N
+N
+N
+N
+N
+N
+Nucleotidyl transferase
+N
+N
+lytR_cpsA_psr: cell envelope-related function transcriptional attenuator common domain
+LytR_cpsA_psr family
+LytR cell envelope-related transcriptional attenuator
+N
+N
+Pentapeptide repeats (8 copies)
+Pentapeptide repeats (8 copies)
+N
+N
+GDSL-like Lipase/Acylhydrolase family
+N
+N
+RNA polymerase Rpb6
+N
+N
+N
+N
+Domain of unknown function (DUF1818)
+N
+N
+N
+N
+N
+N
+ATPase family associated with various cellular activities (AAA)
+N
+N
+N
+N
+Domain of unknown function (DUF4277)
+N
+N
+Domain of unknown function (DUF4277)
+N
+N
